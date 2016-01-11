@@ -2,6 +2,10 @@
 
 This repo currently contains a minimal test integration of
 [cx_Freeze][cxfreeze] with [PyGObject][pygi] runtime stuff.
+
+> ![Unremarkable screenshot](https://cloud.githubusercontent.com/assets/61299/12250457/dfb4f68e-b8be-11e5-8097-54e3e11fafde.png)  
+> -- This, but as a `.exe`
+
 It supports [GTK 3.x][gtk] and [Cairo 1.x][cairo] modules initially.
 To build the test executable on Windows,
 you need to install [MSYS2][msys2] first and upgrade its core packages.
